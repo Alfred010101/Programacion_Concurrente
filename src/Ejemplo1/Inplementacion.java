@@ -35,7 +35,7 @@ public class Inplementacion
         /******************************
          * Ejemplo 2:
          *  IMPORTANTE: 
-         *      Observar como se imprimen(procesan) los indices
+         *      Observar como se imprimen(procesan)
          *      Observar la carga de trabajo para el procesador 
          *      Compararlo con la impresion normal de los indices
          *      [Si el procesador aguamta da le hasta que true... 
