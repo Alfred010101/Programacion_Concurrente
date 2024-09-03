@@ -1,4 +1,5 @@
 ->JDK 18
+
 ->Apache NetBeans IDE 18
 
 Ejercicio 1:
@@ -7,4 +8,8 @@ Ejercicio 1:
 
 Ejercicio 2:
 	-> join()
-	->terminar el hilo principal despues de un un hilo determinado
+	->Terminar el hilo principal despues de un un hilo determinado
+
+Ejercicio 3:
+	->Eliminar el indeterminismo: evitando que dos o mas hilos modifiquen el mismo valor (al mismo tiempo)
+
