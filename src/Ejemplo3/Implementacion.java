@@ -15,6 +15,14 @@ public class Implementacion
 
     public static void main(String[] args)
     {
+        /*********************************
+         * Ejercicio 3:
+         *      Elimina el indeterminismo al asignar una seccion 
+         *      sobre la que trabajara cada hilo.
+         * 
+         *      Evitando que los hilos trabajen con una misma celda de informacion
+         *      eliminando la seccion critica.
+         *********************************/
         int vector[] = new int[1000000];
         System.out.println("------------------Datos del arreglo------------------------------");
         for (int i = 0; i < vector.length; i++)
