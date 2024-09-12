@@ -17,5 +17,8 @@ Ejercicio 4:
 	->Comparar el tiempo de ejecucion entre un programa concurrente y uno secuecnial.
 	->Concurrente apx. entre 50% y 60% del tiempo que el procedimental
 
+Ejercicio 5:
+	->Crear hilos de forma dinamica
+
 Ejercicio 6:
 	->Runnable & Synchronized
